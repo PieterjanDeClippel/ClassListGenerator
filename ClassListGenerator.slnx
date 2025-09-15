@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClassListGenerator.Test/ClassListGenerator.Test.csproj" />
+  <Project Path="ClassListGenerator/ClassListGenerator.csproj" />
+</Solution>

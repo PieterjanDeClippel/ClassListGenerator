@@ -1,0 +1,8 @@
+﻿{
+  "profiles": {
+    "Debug Source Generators on ClassListGenerator.Test": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\ClassListGenerator.Test\\ClassListGenerator.Test.csproj"
+    }
+  }
+}
