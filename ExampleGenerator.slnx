@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/TestProjects/">
+    <Project Path="TestProjects/ClassListGenerator.Test/ClassListGenerator.Test.csproj" />
+  </Folder>
+  <Project Path="ExampleGenerator/ExampleGenerator.csproj" />
+</Solution>

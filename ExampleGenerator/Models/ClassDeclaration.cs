@@ -1,6 +1,6 @@
 ﻿using MintPlayer.ValueComparerGenerator.Attributes;
 
-namespace ClassListGenerator.Models;
+namespace ExampleGenerator.Models;
 
 [AutoValueComparer]
 public partial class ClassDeclaration
